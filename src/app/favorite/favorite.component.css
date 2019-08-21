@@ -1,0 +1,12 @@
+.glyphicon {
+    height: 25px;
+    width: 25px;
+}
+
+.glyphicon-star {
+    background-color: green;
+}
+
+.glyphicon-star-empty {
+    background-color: red;
+}
